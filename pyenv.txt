@@ -1,0 +1,9 @@
+pyenv install --list
+pyenv install --list
+pyenv install 3.9.7
+pyenv local 3.9.7
+python
+python3 -m venv venv
+source ./venv/bin/activate
+python --version
+which python

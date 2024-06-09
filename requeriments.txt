@@ -1,0 +1,6 @@
+pandas
+pickle5
+seaborn
+sklearn
+matplotlib
+pyarrow
