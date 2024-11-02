@@ -7,3 +7,23 @@ python3 -m venv venv
 source ./venv/bin/activate
 python --version
 which python
+
+
+# configing tools pyenv, for execute diferents python versions
+pyenv
+pyenv --version
+curl https://pyenv.run | bash
+pyenv --version
+echo -e 'export PYENV_ROOT="$HOME/.pyenv"\nexport PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc\necho -e 'eval "$(pyenv init --path)"\neval "$(pyenv init -)"' >> ~/.zshrc
+pyenv --version
+pyenv install --list
+pyenv install --list
+pyenv install --list
+pyenv install 3.9.7
+pyenv local 3.7.10
+pyenv local 3.9.7
+pyenv --version
+pyenv
+pyenv install --list
+pyenv local 3.9.7
+history | grep pyenv
