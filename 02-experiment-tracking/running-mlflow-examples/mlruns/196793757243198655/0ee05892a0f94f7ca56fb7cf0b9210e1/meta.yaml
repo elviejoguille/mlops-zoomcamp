@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/196793757243198655/0ee05892a0f94f7ca56fb7cf0b9210e1/artifacts
+end_time: 1731162411570
+entry_point_name: ''
+experiment_id: '196793757243198655'
+lifecycle_stage: active
+run_id: 0ee05892a0f94f7ca56fb7cf0b9210e1
+run_name: trusting-worm-42
+run_uuid: 0ee05892a0f94f7ca56fb7cf0b9210e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731162409136
+status: 3
+tags: []
+user_id: codespace
